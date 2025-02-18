@@ -188,7 +188,7 @@ def message_text(event):
                 ReplyMessageRequest(
                     reply_token=event.reply_token,
                     # messages=[TextMessage(text ='reply message')]
-                    messages = [TextMessage(text='WTF')]
+                    messages = [TextMessage(text='ㄍㄨㄥ ㄙㄢ ㄒㄧㄠˇ XD')]
                 )
             )
             
